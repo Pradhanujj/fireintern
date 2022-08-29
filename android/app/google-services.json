@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210015055939",
+    "project_id": "fireintern-b8e47",
+    "storage_bucket": "fireintern-b8e47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210015055939:android:96d744a699e19fdc03e4f6",
+        "android_client_info": {
+          "package_name": "com.example.fireintern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210015055939-jhjg4jkh51hdu226fr18cta625bmo8jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNuVlozAhJFiclNqnzhOgQ0LHx_tq-0Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210015055939-jhjg4jkh51hdu226fr18cta625bmo8jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
